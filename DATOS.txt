@@ -1,0 +1,27 @@
+Carrera: Diseño y Programación Web
+
+Materia: Clientes Web Mobile
+
+Cuatrimestre: 4to Cuatrimestre
+
+Año: 2023
+
+Turno: Noche
+
+Comisión: DWN4BV
+
+Alumno: Piñeiro David
+
+Docente: Santiago Gallino
+
+Entrega: 1° Parcial
+
+Saludos y buenas correcciones. 
+
+################################
+
+Usuario Administrador:
+
+Email: servicepower@servicepower.com
+
+Contraseña: 123456
