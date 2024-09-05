@@ -1,7 +1,6 @@
 <template>
     <header class="flex gap-8 p-2 items-center bg-lime-200 mb-10 shadow-lg">
-        <!-- --------- -->
-
+     
         <nav class="shadow-xl bg-white dark:bg-lime-200 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <img class="max-h-10" src="../public/imgs/ServicePowerLogo.png" alt="power service logo">
