@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: `${import.meta.env.VITE_APP_API_KEY}`, // para Vite
+    apiKey: "AIzaSyDuAIIL4fJf-L6YgFdthIo5xqLhJWiaDRc", 
     authDomain: "tp1-cmw.firebaseapp.com",
     projectId: "tp1-cmw",
     storageBucket: "tp1-cmw.appspot.com",
     messagingSenderId: "1078652927789",
-    appId: `${import.meta.env.VITE_APP_APP_ID}` // para Vite
+    appId: "AIzaSyDuAIIL4fJf-L6YgFdthIo5xqLhJWiaDRc" 
 };
 
 export const app = initializeApp(firebaseConfig);
